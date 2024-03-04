@@ -26,6 +26,8 @@ The goal of this project phase is to analyze the transaction dataset and identif
 * examine sales drivers to gain insights into overall sales performance.
 * perform affinity analysis to identify brands favored by a particular customer segment compared to others, aiding tailored promotional efforts and product offerings.
 
+The analysis can be found [here](FQ_Task1.pdf).
+
 ### Insights into Customer Purchasing Behaviors:
 * Sales have mainly been due to Budget- older families, Mainstream- young singles/couples, and Mainstream- retirees shoppers.
   - We found that the high spend in chips for mainstream young singles/couples and retirees is due to there being more of them than other buyers.
@@ -40,6 +42,8 @@ The goal of this project phase is to identify benchmark stores that allow us to 
 * learned how to select control stores based on defined metrics
 * gained proficieny in performing statistical analysis to assess sales differences and formulate recommendations.
 * deepened my understanding of experimentation and uplift testing, comparing trial and control stores.
+
+The analysis can be found [here](FQ_Task2.pdf).
 
 ### Insights from New Trial Layouts Evaluation:
 * We’ve found control stores 233, 155, 237 for trial stores 77, 86 and 88 respectively.
