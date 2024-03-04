@@ -24,6 +24,7 @@ QVI_transaction_data dataset: This dataset encompasses details of around 200,000
 The goal of this project phase is to analyze the transaction dataset and identify customer purchasing behaviors to provide sales-boosting recommendations. Primarily, I learned how to 
 * identify customer segments based on purchasing behavior
 * examine sales drivers to gain insights into overall sales performance.
+* perform affinity analysis to identify brands favored by a particular customer segment compared to others, aiding tailored promotional efforts and product offerings.
 
 ### Insights into Customer Purchasing Behaviors:
 * Sales have mainly been due to Budget- older families, Mainstream- young singles/couples, and Mainstream- retirees shoppers.
